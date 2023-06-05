@@ -22,8 +22,8 @@ Prepare a lists:
 # Roles and duties during the adaptation period
 ## HR
 - To organize process and communicate the process
-- Adoption meetings
-- List of materials for new employees
+- To conduct adaptation meetings
+- To prepare materials for new employees
 - To be open for communication
 
 ## Line manager
@@ -39,19 +39,19 @@ Prepare a lists:
 - Rules how to interact inside the team
 
 ## Buddy
-To make adoption process easy, it's possible to assign a buddy, he can be responsible for:
-- social adoption - to introduce new employee to other company members
+To make adaptation process easy, it's possible to assign a buddy, he can be responsible for:
+- social adaptation - to introduce new employee to other company members
 - to help with non-work questions, like how to make an appointment or where to get lunch.
 
 ## Employee
 New employee himself should 
 - show responsibility and discipline
-- follow adoption plan
+- follow adaptation plan
 
 - It's also possible to propose a plan for himself.
 - To be proactive in searching resources.
 
-# Adoption meeting
+# adaptation meeting
 HR should make an appointment for the following:
 - management introduction
 - organization structure
@@ -59,7 +59,7 @@ HR should make an appointment for the following:
 - introduce work rules
 - organize education on the company tools or processes
 
-# Adoption plan
+# adaptation plan
 **Day 1**
 - Paperwork (NDA, contract, IS policies)
 - Get key resources (email, computer)
