@@ -26,10 +26,10 @@ Partly I took as a reference [LinkedIn Guide to Screening Candidates](https://bu
 Introduce yourself, and your teammates, if it's a group interview.
 
 ## Ice break
-*If it’s in the company office - offer tea/coffee.* 
-It was easy to find an office?
-Where are you from? 
-What’s the weather like today? 
+- *If it’s in the company office - offer tea/coffee.* 
+- It was easy to find an office?
+- Where are you from? 
+- What’s the weather like today? 
 
 ## Describe the interview plan for candidate
 To tell to the candidate how the interview will go:
@@ -66,9 +66,9 @@ Push candidates to give you better information by doing the following:
 # Behavioral questions
 Past performance assessement.
 
-Ask a few open-ended “why” questions.
-Have the candidate give you concrete examples of times when they demonstrated strengths in your desired skill set?
-There is no time for all questions, choose some questions from the list from each section.
+- Ask a few open-ended “why” questions.
+- Have the candidate give you concrete examples of times when they demonstrated strengths in your desired skill set?
+- There is no time for all questions, choose some questions from the list from each section.
 
 ## Purpose-Driven / prioritization
 - Tell me about a time when you had to juggle several projects at the same time. How did you organize your time? What was the result?

@@ -14,12 +14,12 @@ Prepare a lists:
 	- trial period
 
 # Trial period goals
-Assign a mentor
-Set educational goals
-Set a tasks
-Track it
+- Assign a mentor
+- Set educational goals
+- Set a tasks
+- Track it
 
-# Roles during the adaptation period
+# Roles and duties during the adaptation period
 ## HR
 - To organize process and communicate the process
 - Adoption meetings
@@ -27,12 +27,12 @@ Track it
 - To be open for communication
 
 ## Line manager
-To reduce uncertainty
-To prepare a 1/7/30/90 plan
-To dedicate a time to meet new employee
-Introducing a new employee to team members
-To assign a mentor or to be a mentor
-To plan regular meetings
+- To reduce uncertainty
+- To prepare a 1/7/30/90 plan
+- To dedicate a time to meet new employee
+- Introducing a new employee to team members
+- To assign a mentor or to be a mentor
+- To plan regular meetings
 
 ## Mentor
 - Transfer of technical knowledge about the project and company customers
@@ -48,8 +48,8 @@ New employee himself should
 - show responsibility and discipline
 - follow adoption plan
 
-It's also possible to propose a plan for himself.
-To be proactive in searching resources.
+- It's also possible to propose a plan for himself.
+- To be proactive in searching resources.
 
 # Adoption meeting
 HR should make an appointment for the following:
