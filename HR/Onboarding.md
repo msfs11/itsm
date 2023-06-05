@@ -4,7 +4,7 @@ Having a structured onboarding process is important because it helps new employe
 Prepare open documentation about the company so the new employee can learn about the company.
 
 # Onboarding
-Prepare a lists: 
+To prepare: 
 - documents and learning materials
 - systems to which the new employee should have access
 - education plan and actions for:
@@ -51,7 +51,7 @@ New employee himself should
 - It's also possible to propose a plan for himself.
 - To be proactive in searching resources.
 
-# adaptation meeting
+# Adaptation meeting
 HR should make an appointment for the following:
 - management introduction
 - organization structure
@@ -59,7 +59,7 @@ HR should make an appointment for the following:
 - introduce work rules
 - organize education on the company tools or processes
 
-# adaptation plan
+# Adaptation plan
 **Day 1**
 - Paperwork (NDA, contract, IS policies)
 - Get key resources (email, computer)
