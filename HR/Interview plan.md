@@ -27,7 +27,7 @@ Here are some short list advices for conducting an effective interview:
 Introduce yourself, and your teammates, if it's a group interview.
 
 ## Ice break
-- *If it’s in the company office - offer tea/coffee.* 
+- *If it’s in the company office - offer tea/coffee.*
 - It was easy to find an office?
 - Where are you from? 
 - What’s the weather like today? 
