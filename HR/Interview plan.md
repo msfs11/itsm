@@ -1,10 +1,10 @@
 # Abstract
-Here is the interview plan based on my experience building a teams in technology companies.
-Follow it to not to beat around the bush.
-The main purpose of the interview, is to assess how a candidate **can think** and **get results** + **culture fit**.
+Based on my experience building teams in technology companies, here is an interview plan that can be followed to avoid beating around the bush.
+The main purpose of an interview is to assess a candidate's ability **to think** and **get results**, as well as their **cultural fit**.
 Partly I took as a reference [LinkedIn Guide to Screening Candidates](https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/resources/pdfs/guide-to-screening-candidates-30-essential-behavioral-interview-questions-to-ask-ebook-v2.pdf).
 
 # Effective interview
+Here are some short list advices for conducting an effective interview:
 - Define the needed skills
 - Review candidate resume
 - Keep the interview structured
@@ -31,8 +31,8 @@ Introduce yourself, and your teammates, if it's a group interview.
 - Where are you from? 
 - What’s the weather like today? 
 
-## Describe the interview plan for candidate
-To tell to the candidate how the interview will go:
+## Describe the interview plan to the candidate
+Tell to the candidate how the interview will go:
 - About the company and vacancy (5 min.)
 - General questions about experience and education (10 min.)
 - Questions from the team leader about skills and knowledge to check the suitability of the job (30 min)
@@ -40,7 +40,7 @@ To tell to the candidate how the interview will go:
 - Time for questions from the candidate (5 min)
 
 ## About the company
-- To ask the candidate what he knows about the company? 
+- Ask the candidate what he knows about the company? 
 - Then tell the candidate about the company.
 
 ## About the vacancy
@@ -64,8 +64,7 @@ Push candidates to give you better information by doing the following:
 - Follow up: Hone in on a specific piece of missing information in their response to dig deeper into the situation.
 
 # Behavioral questions
-Past performance assessement.
-
+Past performance assessment.
 - Ask a few open-ended “why” questions.
 - Have the candidate give you concrete examples of times when they demonstrated strengths in your desired skill set?
 - There is no time for all questions, choose some questions from the list from each section.
@@ -126,9 +125,10 @@ Whether you will answer questions during illness or go to the office at risk of 
 
 # Culture fit
 **How to screen for culture fit?**
+- What’s the most interesting thing about you that’s not on your resume?
+- What did you read last
 - What are the three things that are most important to you in a job?
 - Tell me about a time in the last week when you’ve been satisfied, energized, and productive at work. What were you doing?
-- What’s the most interesting thing about you that’s not on your resume?
 - What would make you choose our company over others?
 - What’s the biggest misconception your coworkers have about you and why do they think that?
 
