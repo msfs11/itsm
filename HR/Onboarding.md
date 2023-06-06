@@ -4,10 +4,10 @@ Having a structured onboarding process is important because it helps new employe
 Prepare open documentation about the company so the new employee can learn about the company.
 
 # Onboarding
-To prepare: 
-- documents and learning materials
-- systems to which the new employee should have access
-- education plan and actions for:
+To prepare for the candidate: 
+- Documents and learning materials
+- List of systems to which the new employee should have access
+- Education plan and actions for:
 	- 1st day
 	- week
 	- month
@@ -16,23 +16,24 @@ To prepare:
 # Trial period goals
 - Assign a mentor
 - Set educational goals
-- Set a tasks
-- Track it
+- Set objectives
+- Track progress
 
 # Roles and duties during the adaptation period
 ## HR
-- To organize process and communicate the process
-- To conduct adaptation meetings
-- To prepare materials for new employees
-- To be open for communication
+- Organize process and communicate the process
+- Conduct adaptation meetings
+- Prepare materials for new employees
+- Be open for communication
 
 ## Line manager
-- To reduce uncertainty
-- To prepare a 1/7/30/90 plan
-- To dedicate a time to meet new employee
-- Introducing a new employee to team members
-- To assign a mentor or to be a mentor
-- To plan regular meetings
+Line manager role is to:
+- Reduce uncertainty
+- Prepare a 1/7/30/90 plan
+- Dedicate a time to meet new employee
+- Introduce a new employee to team members
+- Assign a mentor or to be a mentor
+- Plan regular meetings
 
 ## Mentor
 - Transfer of technical knowledge about the project and company customers

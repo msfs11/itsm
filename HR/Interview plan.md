@@ -19,6 +19,7 @@ Here are some short list advices for conducting an effective interview:
 	- Credit rating
 	- Salary history
 - Try to make positive candidate experience
+- If you are conducting a group interview, distribute the questions in advance
 - Make a notes during the interview or just after
 - Schedule a 15 minutes per week to discuss the applicants for each position
 
@@ -47,13 +48,13 @@ Tell to the candidate how the interview will go:
 - Job and area responsibilities
 - Terms of admission for a vacancy
 
-## General questions about education, experience
+## General questions about education and experience
 - Why do you want to work for this company? Is there any exact motivation?
 - Why did you choose this profession?
 - What are your expectations from the employer?
 - What was your experience in communicating with foreigners in English? Can you give some examples?
 
-# Skills-based questions
+# Skill questions
 TBD by team lead. To assess hard-skills (knowledge of the exact technologies needed for job).
 
 ## How to get the answers you need?
