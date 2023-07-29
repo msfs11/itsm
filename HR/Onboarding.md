@@ -46,7 +46,7 @@ To make the adaptation process easy, it's possible to assign a buddy, they can b
 - to help with non-work matters, like how to make an appointment or where to get lunch.
 
 ## Employee
-A new employee themselfs should:
+A new employee themselves should:
 - show responsibility and discipline
 - follow the adaptation plan
 
