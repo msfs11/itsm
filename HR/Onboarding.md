@@ -1,4 +1,4 @@
-Having a structured onboarding process is important because it helps new employees acclimate to their role, the company's culture, and what the company has to offer. It also improves employee productivity and efficiency, increases retention, and sets the stage for long-term success within the organization.
+Having a structured onboarding process is important because it helps new employees get used to their role, the company's culture, and what the company has to offer. It also improves employee productivity and efficiency, increases retention, and sets the stage for long-term success within the organization.
 
 # Preboarding
 Prepare open documentation about the company so the new employee can learn about the company.
@@ -6,7 +6,7 @@ Prepare open documentation about the company so the new employee can learn about
 # Onboarding
 To prepare for the candidate: 
 - Documents and learning materials
-- List of systems to which the new employee should have access
+- List of systems which the new employee should have access to
 - Education plan and actions for:
 	- 1st day
 	- week
@@ -25,38 +25,39 @@ To prepare for the candidate:
 - Conduct adaptation meetings
 - Prepare materials for new employees
 - Be open for communication
+- To provide a checklist for the employee
 
 ## Line manager
 Line manager role is to:
 - Reduce uncertainty
 - Prepare a 1/7/30/90 plan
-- Dedicate a time to meet new employee
+- Dedicate a time to meet a new employee
 - Introduce a new employee to team members
-- Assign a mentor or to be a mentor
+- Assign a mentor or be a mentor
 - Plan regular meetings
 
 ## Mentor
 - Transfer of technical knowledge about the project and company customers
-- Rules how to interact inside the team
+- Rules as to interact inside the team
 
 ## Buddy
-To make adaptation process easy, it's possible to assign a buddy, he can be responsible for:
-- social adaptation - to introduce new employee to other company members
-- to help with non-work questions, like how to make an appointment or where to get lunch.
+To make the adaptation process easy, it's possible to assign a buddy, they can be responsible for:
+- social adaptation - to introduce a new employee to other company members
+- to help with non-work matters, like how to make an appointment or where to get lunch.
 
 ## Employee
-New employee himself should 
+A new employee themselfs should:
 - show responsibility and discipline
-- follow adaptation plan
+- follow the adaptation plan
 
-- It's also possible to propose a plan for himself.
-- To be proactive in searching resources.
+- To propose a plan themselves
+- To be proactive in searching resources
 
 # Adaptation meeting
-HR should make an appointment for the following:
+The HR should make an appointment for the following:
 - management introduction
 - organization structure
-- introduce company culture and values
+- introduce the company culture and values
 - introduce work rules
 - organize education on the company tools or processes
 
@@ -67,11 +68,11 @@ HR should make an appointment for the following:
 - Meet the team and key employees
 
 **7 days**
-- To get and coordinate the plan for the 90 days
-- Get access to company resources (accounts and equipment)
+- To obtain and coordinate the plan for the 90 days
+- Gain access to company resources (accounts and equipment)
 
 **30 days**
-- To meet company culture and participate the meetings
+- To get to know the company culture and participate in meetings
 - Priority management
 - To define further plans
 
